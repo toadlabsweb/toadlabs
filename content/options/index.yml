@@ -1,0 +1,117 @@
+name: Toadlabs holographic/mixed reality solution company
+title: Toadlabs holographic/mixed reality solution company
+basepath: http://localhost:3000
+description: We are a holographic/mixed reality solution company that enhances the connection between your business or organization and your consumers through cutting-edge 3D visualization technology in real-time. | Toadlabs
+keywords:
+  - Toadlabs
+  - Holographic
+  - Hologramm
+  - Virtual Avatar
+author:
+  name: Rajat Bangia
+  email: toadlabs@gmail.com
+  url: https://toadlabs.in
+links:
+  - name: Home
+    link: /
+  - name: About
+    link: /about
+  - name: Products
+    link: /products
+  - name: Solutions
+    link: /solutions
+  - name: Contact
+    link: /contact
+intro:
+  title: ADS IN THE AIR
+  video: /videos/tlvideo.mp4
+  text: 3 Dimensional, slightly hypnotic holograms will soon replace two dimensional signages and ads. 3D Holograms will revolutionize the way business and brands talk to their potential customers. We create 3D Holographic and mixed reality display platforms for outdoor and indoor advertisements that display texts, animations, objects and anything that you can imagine free floating in the air that is demonstrative, dynamic, engaging, creates product retention, has a great recall value and an excellent revenue model.
+process:
+  title: HOW WE WORK
+  video: /videos/all3techs.mp4   
+  steps:
+  - title: Storyboarding 
+    text: We actively engage with our partners to establish a framework of their requirements. We use already existing assets or also create content which we then use to storyboard for 3D animations and more.
+  - title: Content creation  
+    text: With the storyboard signed off on we then get to work on creating high-quality engaging 3D content which will bring your brand to life in 3D. Our team of professionals can create 2D/3D animations, 3D modeling, VFX and motion graphics integrating your brands message.
+  - title:  Installation
+    text: And finally our team will install the solution at the most visible area at your location.
+services:
+  - title: Products
+    subtitle: Products for your brand communication needs we offer the hardware like holo fans, holo boxes, projectors, etc.
+    image: /images/services/products.jpg
+    href: /products
+  - title: 3D Solutions
+    subtitle: We offer a wide range of 3D Solutions for your events or brand communications that will help you communicate your message.
+    image: /images/services/3dsolutions.jpg
+    href: /solutions
+  - title: Content Creation
+    subtitle: Our team can create 2D/3D animations, 3D modeling, VFX and motion graphics integrating your brands message.
+    image: /images/services/content1.jpg
+    href: /
+partners:
+  - title: Dark Knight
+    description: Dark Knight
+    link: https://dark-knight.com
+    alt: DK_Logo
+    image: /images/partners/DK_Logo.png
+  - title: G Shock
+    description: G Shock
+    link: https://gshock.casio.com/in/
+    alt: gshock
+    image: /images/partners/gshock.png
+  - title: IIT-Guwahati
+    description: IIT-Guwahati
+    link: https://www.iitg.ac.in/
+    alt: IIT-Guwahati
+    image: /images/partners/IIT-Guwahati.png
+  - title: JK Cement ltd
+    description: JK Cement ltd
+    link: https://www.jkcement.com/
+    alt: jk-cement-ltd
+    image: /images/partners/jk-cement-ltd.png
+  - title: Pepsi MTV
+    description: Pepsi MTV
+    link: http://www.pepsimtvindies.com/
+    alt: Pepsi-MTV
+    image: /images/partners/Pepsi-MTV.png
+  - title: Rolling Stone
+    description: Rolling Stone
+    link: https://www.rollingstone.com/
+    alt: rollingstone
+    image: /images/partners/rollingstone.png
+about:
+  title: About Us 
+  text:
+  - We are a holographic/mixed reality solution company that enhances the connection between your business or organization and your consumers through cutting-edge 3D visualization technology in real-time. Our services include creating 3D holographic solutions for outdoor and indoor advertising, transforming glass windows into digital holographic screens, developing 3D life-size virtual avatars, and crafting holographic/mixed reality presentations, speeches, campaigns, and event holograms. Our vision is to revolutionize brand communication while ensuring accessibility to a wider audience.
+  - Toadlabs Technology Inc. was established in 2015 by Rajat Bangia in Guwahati as a visual production and event management company. In 2021, we relocated our headquarters to Bangalore. Initially focusing on event organization and coverage, we recognized the potential of holographic technology to elevate branding experiences for our clients. Delving deeper into holography, we discovered innovative solutions that allow viewers to experience products and content in mesmerizing 3D without the need for glasses. We believe that this technology can fundamentally transform how brands engage with their audiences.
+  - At Toadlabs, we offer tailor-made solutions such as holo boxes, holographic signage, billboards, mid-air projections, interactive holographic platforms, and mixed reality solutions. With our expertise, the creation of your brand's content is limited only by your imagination.
+socials:
+  - name: Linkedin
+    icon: /icons/linkedin.svg
+    link: https://www.aedin.com/in/toadlabs-technology-inc-376593226/
+  - name: YouTube
+    icon: /icons/youtube.svg
+    link: https://www.youtube.com/channel/UCOpRzSwbHON9NGsmvr2yjoA
+  - name: Facebook
+    icon: /icons/facebook.svg
+    link: https://www.facebook.com/toadlabs
+  - name: Instagram
+    icon: /icons/instagram.svg
+    link: https://www.instagram.com/toadlabs_technology_inc/
+contact:
+- text: 
+  - No. 23, Muninarayanappa Complex,
+  - Bagaluru Main Road, Kothnur,
+  - New Airport Road
+  - Bengaluru- 560077 KA, India
+  link: /
+  icon: /icons/mapPin.svg
+- text: 
+  - +91 600 146 8694
+  link: tel:+916001468694
+  icon: /icons/phone.svg
+- text: 
+  - toadlabs@gmail.com
+  link: mailto:toadlabs@gmail.com
+  icon: /icons/mail.svg
